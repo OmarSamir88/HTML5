@@ -1,0 +1,31 @@
+#wrapper {
+	width: 1280px;
+	margin-right: auto;
+	margin-left: auto;	
+}
+header {
+	padding: 32px;
+	height: 32px;
+	background: darkgray;
+}
+
+h1 {
+	height: 100%;
+}
+
+h2 {
+	height: 448px;    /* 768  */
+	width: 912px;
+	background: Gainsboro;
+}
+
+a3 {
+	font-size: 40px;
+	color: White;
+}
+
+
+hh1 {
+	padding: 16px;
+	background: white;
+}
